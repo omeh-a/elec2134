@@ -1,0 +1,18 @@
+Circuit: * C:\Users\matth\Documents\GitHub\elec2134\TLB 1\Task 1 DC.asc
+
+
+Date: Tue Sep 13 23:12:35 2022
+Total elapsed time: 0.019 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 0
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+

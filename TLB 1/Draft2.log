@@ -1,8 +1,8 @@
-Circuit: * Z:\home\mattr\uni\elec2134\TLB 1\Draft2.asc
+Circuit: * C:\Users\matth\Documents\GitHub\elec2134\TLB 1\Draft2.asc
 
 
-Date: Wed Sep 21 12:41:59 2022
-Total elapsed time: 0.049 seconds.
+Date: Thu Sep 22 18:28:31 2022
+Total elapsed time: 0.021 seconds.
 
 tnom = 27
 temp = 27
@@ -12,7 +12,7 @@ traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 3
-fillins = 1
+matrix size = 2
+fillins = 0
 solver = Normal
 

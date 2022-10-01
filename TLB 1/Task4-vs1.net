@@ -1,9 +1,0 @@
-* C:\Users\matth\Documents\GitHub\elec2134\TLB 1\Task4-vs1.asc
-V1 N001 0 5 AC 5 100
-R1 0 P001 10
-R2 N002 0 10
-C1 P001 N001 100µ
-L1 N001 N002 10m
-.ac dec 10 0.2 0.4
-.backanno
-.end

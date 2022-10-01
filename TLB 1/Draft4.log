@@ -1,0 +1,10 @@
+Circuit: * Z:\home\mattr\uni\elec2134\TLB 1\Draft4.asc
+
+WARNING: Node N004 is floating.
+WARNING: Node NC_02 is floating.
+
+WARNING: Less than two connections to node N003.  This node is used by L1.
+WARNING: Less than two connections to node N004.  This node is used by C1.
+WARNING: Less than two connections to node NC_01.  This node is used by R3.
+WARNING: Less than two connections to node NC_02.  This node is used by R3.
+Fatal Error: Analysis Failed: Matrix is singular

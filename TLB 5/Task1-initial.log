@@ -1,0 +1,21 @@
+Circuit: * C:\users\mattr\Favorites\elec2134\TLB 5\Task1-initial.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Nov 12 16:41:36 2022
+Total elapsed time: 0.113 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2103
+traniter = 2100
+tranpoints = 1051
+accept = 1051
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 184 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 223 bytes object code size  0.1/0.1/[0.1]
+

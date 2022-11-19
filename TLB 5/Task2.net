@@ -1,0 +1,10 @@
+* C:\users\mattr\Favorites\elec2134\TLB 5\Task2.asc
+V1 N001 0 PULSE(6 0 5 1n 1n 10)
+R1 N002 N001 3
+L1 N002 N003 0.25
+C1 N003 0 0.1
+R2 N003 0 5
+I1 0 N003 PULSE(0 6 5 1n 1n 10)
+.tran 10
+.backanno
+.end
